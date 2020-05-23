@@ -137,8 +137,6 @@ print(flere_aksjer)
 print() #for plass
 
 
-#EPISODE 114
-print("ep.114")
 
 
 
